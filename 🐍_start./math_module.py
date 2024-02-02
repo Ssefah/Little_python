@@ -1,0 +1,13 @@
+﻿import math
+print(math.pi)
+#math.perm(n, k=None)
+#print(math.comb(2,6))
+print(sum([.1, .1, .1, .1, .1, .1, .1, .1, .1, .1]))
+print(math.fsum([.1, .1, .1, .1, .1, .1, .1, .1, .1, .1]))
+print(math.gcd(24,18))
+#print(math.lcm(24,18))
+print(math.isclose(sum([.1, .1, .1, .1, .1, .1, .1, .1, .1, .1]),1.0))
+print(math.isnan(4.21))
+print(math.modf(2.89))
+#print(math.cbrt(27))
+print(math.sin(math.radians(90)))
